@@ -1,6 +1,6 @@
 public class Arithmetic_Operators
 {
-    public static void main(int a, int b, int p)
+    public static void main(int a, int b)
     {
         int sum = a+b;
         int difference = a-b;
